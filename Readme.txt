@@ -1,3 +1,5 @@
+The demo from this nice article : https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
+
 The following are the design flaws that cause dammage to software, mostly : 
 1- Putting more stress to the classes by adding more responsabilities to them (a lot of functionality not related to the classe)
 2- Forcing the classes to depend to eachother (a change in one classe affect the other class)
