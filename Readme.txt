@@ -105,3 +105,18 @@ public class AreaCalculator
       return area;
    }
 }
+
+
+3) Liskov substitution Principle : 
+**********************************
+LSP states "You should be able to use any derived class instead of a parent class and it behave the same manner without modification"
+it ensures that the derived class doesn't affect the behaviour of the parent class.
+Take a look on this example https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
+
+
+4) Interface Segregation Principle : 
+************************************
+ISP states "The client should not be forced to implement interfaces they don't use". Instead of one fat interface, many small interfaces
+are preferred based on groups of methods, each one serving one submodule.
+
+Good example : https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
