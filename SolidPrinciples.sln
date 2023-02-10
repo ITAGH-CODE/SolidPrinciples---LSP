@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid-LSP", "solid-LSP\solid-LSP.csproj", "{90D258EC-413D-49FD-BC0A-3F154E89C6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid-LSP-ok", "solid-LSP-ok\solid-LSP-ok.csproj", "{F89F757C-4946-402F-9E22-BF475B920AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D258EC-413D-49FD-BC0A-3F154E89C6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D258EC-413D-49FD-BC0A-3F154E89C6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D258EC-413D-49FD-BC0A-3F154E89C6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D258EC-413D-49FD-BC0A-3F154E89C6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89F757C-4946-402F-9E22-BF475B920AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89F757C-4946-402F-9E22-BF475B920AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89F757C-4946-402F-9E22-BF475B920AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89F757C-4946-402F-9E22-BF475B920AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800636C7-01D7-4780-AE67-4943598AE831}
+	EndGlobalSection
+EndGlobal
